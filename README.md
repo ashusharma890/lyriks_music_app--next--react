@@ -7,3 +7,6 @@ Built using ReactJs, NextJs and Redux with Chakra UI & Tailwind CSS applied and 
 Components created are in components folder inside "src" folder.
 
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/81765508/193287274-47fbeadd-30e0-4cd4-ba7a-0538bc5d7562.png">
+
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/81765508/193288959-aec96679-714c-40bc-b15f-cfd6fa5ce159.png">
+
